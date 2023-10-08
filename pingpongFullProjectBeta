@@ -11,5 +11,5 @@ X0 = PHANToM_X0 + xr0;
 X1 = PHANToM_X1 + xr0;
 Y  = PHANToM_Y0 + yr;
 pp = random(0,1);
-if (pp == 0){Notification = "PHANToM"}
+if (pp == 0){Notification = "pingpong"}
 else if (pp == 1){Notification = "Line:pingpongalon"}
