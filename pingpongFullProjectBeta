@@ -12,4 +12,4 @@ X1 = PHANToM_X1 + xr0;
 Y  = PHANToM_Y0 + yr;
 pp = random(0,1);
 if (pp == 0){Notification = "PHANToM"}
-else if (pp == 1){Notification = "Line:phantom1669"}
+else if (pp == 1){Notification = "Line:pingpongalon"}
